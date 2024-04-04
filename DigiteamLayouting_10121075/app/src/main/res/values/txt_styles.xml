@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fontRobotoMd16dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="fontRobotoMd20dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="fontRobotoMd14dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="fontRobotoReg14dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="fontLatoReg12dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/lato_regular</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="fontWorkSans14dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/worksans_semibold</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+
+    <style name="fontRobotoBold20dp" parent="TextAppearance.AppCompat">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+</resources>

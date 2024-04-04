@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DigiteamLayouting_10121075</string>
+
+    <string name="companyName">DigiTeam</string>
+    <string name="subName1">Digital Together Everyone Achieve More</string>
+    <string name="subName2">Jabar Digital Service</string>
+    <string name="nameProfile">Wildan Permana, S.Kom</string>
+    <string name="profession">Android Developer</string>
+    <string name="timeTitle">Jam Kerja Bulan Ini</string>
+    <string name="descTime">Jam kerja kamu bulan ini: 120.53 Jam</string>
+    <string name="time">120.53 JAM</string>
+    <string name="reqTime">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="check">Check in</string>
+    <string name="reportTitle">Laporan Kamu</string>
+    <string name="add">Buat Laporan</string>
+
+</resources>
